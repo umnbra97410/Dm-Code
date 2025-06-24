@@ -1,3 +1,5 @@
+Français file
+
 import discord
 from discord.ext import commands
 
